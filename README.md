@@ -1,1 +1,1 @@
-# Binary-Search-Algo
+Binary search algorithm in python
